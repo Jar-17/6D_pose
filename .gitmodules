@@ -1,0 +1,9 @@
+[submodule "Grounded-SAM-2"]
+	path = Grounded-SAM-2
+	url = git@github.com:IDEA-Research/Grounded-SAM-2.git
+[submodule "InstantMesh"]
+	path = InstantMesh
+	url = git@github.com:TencentARC/InstantMesh.git
+[submodule "MVGenMaster"]
+	path = MVGenMaster
+	url = git@github.com:ewrfcas/MVGenMaster.git
